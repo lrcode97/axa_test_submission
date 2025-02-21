@@ -1,1 +1,1 @@
-{"iterations": 855, "depth": 4, "learning_rate": 0.02712110799228275, "bagging_temperature": 0.9103866914183513, "l2_leaf_reg": 3.125413532884211, "border_count": 69, "task_type": "GPU", "devices": "0", "eval_metric": "F1", "verbose": false}
+{"iterations": 236, "depth": 4, "learning_rate": 0.0012560102865564753, "bagging_temperature": 0.7140608442746459, "l2_leaf_reg": 4.818670599332103, "border_count": 232, "task_type": "GPU", "devices": "0", "eval_metric": "Recall", "verbose": false}
